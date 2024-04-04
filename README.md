@@ -15,6 +15,27 @@ The data for this project has been sourced from publicly available Airbnb datase
 ## Methodology
 Our analysis utilizes a combination of statistical methods and machine learning models to dissect the Airbnb data. We employ Python for data cleaning, transformation, and analysis, with libraries such as Pandas for data manipulation, Matplotlib and Seaborn for visualization, and Scikit-learn for predictive modeling.
 
+# one
+## two
+### three
+
+# another one
+- asd
+- asdf
+  -- qwe
+-abidas
+
+1. onrsd
+2. 123
+3. 1233w
+   1. sda
+   2. asd
+   3. sdfon
+4. asd
+
+-some links [links](https://www.nobledesktop.com/learn/git/git-branches#:~:text=Users%20can%20create%20a%20new,%2Dname'%20command%20is%20used.)
+
+
 ## Key Findings
 Trends: [Summary of key trends observed]
 Duration: [Insights on the typical durations of stays]
